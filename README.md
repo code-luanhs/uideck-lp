@@ -23,7 +23,7 @@ Se tudo der certo, você terá todos os arquivos que compõem o projeto e poder�
 
 ## Tecnologias Utilizadas
 
-![HTML5](https://github.com/realluan05/template02/blob/main/assets/images/readme/icon-html5.svg)&nbsp;&nbsp;
-![SASS](https://github.com/realluan05/template02/blob/main/assets/images/readme/icon-sass.svg)&nbsp;&nbsp;
-![PHP](https://github.com/realluan05/template02/blob/main/assets/images/readme/icon-php.svg)&nbsp;&nbsp;
-![jQuery](https://github.com/realluan05/template02/blob/main/assets/images/readme/icon-jquery48.png)
+![HTML5](https://github.com/realluan05/uideck-lp/blob/main/assets/images/readme/icon-html5.svg)&nbsp;&nbsp;
+![SASS](https://github.com/realluan05/uideck-lp/blob/main/assets/images/readme/icon-sass.svg)&nbsp;&nbsp;
+![PHP](https://github.com/realluan05/uideck-lp/blob/main/assets/images/readme/icon-php.svg)&nbsp;&nbsp;
+![jQuery](https://github.com/realluan05/uideck-lp/blob/main/assets/images/readme/icon-jquery48.png)
