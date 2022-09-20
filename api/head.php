@@ -19,5 +19,5 @@
     <!-- Files JS -->
     <script type="text/javascript" src="../assets/js/geral.js" async></script>
 
-    <title>Template 02</title>
+    <title>UIDeck - Landing Page</title>
 </head>
